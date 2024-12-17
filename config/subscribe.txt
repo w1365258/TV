@@ -1,3 +1,3 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-https://github.com/CCSH/IPTV/blob/main/live.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/main/live.txt
