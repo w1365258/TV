@@ -1,11 +1,13 @@
 # 这是接口或订阅源的白名单，白名单内的接口或订阅源获取的接口将不会参与测速，优先排序至结果最前。
 # 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
 aktv.top/AKTV/live/aktv
-东南卫视,https://tvbox.nat.netsite.cc
-海南卫视,https://tvbox.nat.netsite.cc
-三沙卫视,https://tvbox.nat.netsite.cc
-宁夏卫视,https://tvbox.nat.netsite.cc
-青海卫视,https://tvbox.nat.netsite.cc
-西藏卫视,https://tvbox.nat.netsite.cc
-新疆卫视,https://tvbox.nat.netsite.cc
-内蒙古卫视,https://tvbox.nat.netsite.cc
+东南卫视,https://tvbox.nat.netsite.cc:8043/proxy/698479958/698479958.m3u8
+东南卫视,https://tvbox.nat.netsite.cc:8043/proxy/1989099435/1989099435.m3u8
+三沙卫视,https://tvbox.nat.netsite.cc:8043/proxy/1337100319/1337100319.m3u8
+宁夏卫视,https://tvbox.nat.netsite.cc:8043/proxy/842139022/842139022.m3u8
+青海卫视,https://tvbox.nat.netsite.cc:8043/proxy/1164716104/1164716104.m3u8
+青海卫视,https://tvbox.nat.netsite.cc:8043/proxy/1152127449/1152127449.m3u8
+西藏卫视,https://tvbox.nat.netsite.cc:8043/proxy/1062504144/1062504144.m3u8
+新疆卫视,https://tvbox.nat.netsite.cc:8043/proxy/86832656/86832656.m3u8
+内蒙古卫视,https://tvbox.nat.netsite.cc:8043/proxy/1838037272/1838037272.m3u8
+内蒙古卫视,https://tvbox.nat.netsite.cc:8043/proxy/1149350272/1149350272.m3u8
